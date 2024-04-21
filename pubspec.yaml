@@ -20,6 +20,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
+  flutter_application_1: ^0.0.2
 
 flutter:
   uses-material-design: true
